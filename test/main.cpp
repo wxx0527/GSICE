@@ -6,6 +6,6 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	std::cout << "hello world ni hso" << std::endl;
 	return 0;
 }
-
