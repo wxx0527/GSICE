@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  // modify by king
+  // modify by kingac
   std::cout << "Hello World!King!" << std::endl;
   return 0;
  }
