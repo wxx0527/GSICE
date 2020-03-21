@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 { 
-	// modify by abc
+	// modify by aaa
 	std::cout << "hello world ni hso" << std::endl;
 	return 0;
 }
